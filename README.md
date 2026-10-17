@@ -1,4 +1,4 @@
-# LookAgain: Budgeted Test-Time Search for Video Temporal Grounding
+# LookAgain: Finding the Right Moment through Search and Verification
 
 Source code accompanying Hunter Wang's honours dissertation at the University of Western Australia. LookAgain searches temporal crops with a frozen video language model and verifies a selected interval against the one-shot prediction.
 
